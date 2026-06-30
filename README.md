@@ -1,2 +1,2 @@
-# Azure cost prediction and optimization model
-Neural network for predicting future resource costs made with Pytorch
+# GCP cost prediction and optimization model
+Neural network for predicting future cloud resource costs made with Pytorch
